@@ -1,1 +1,1 @@
-# ce-tags-input
+# ceTagsInput
