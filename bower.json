@@ -1,0 +1,23 @@
+{
+  "name": "ce-tags-input",
+  "homepage": "https://github.com/christianezeani/ceTagsInput",
+  "authors": [
+    "Christian Ezeani <christian.ezeani@gmail.com>"
+  ],
+  "description": "ceTagsInput is a highly customizable tags input directive built for various Javascript frameworks, with no external dependencies.",
+  "main": "",
+  "keywords": [
+    "tags",
+    "input",
+    "angular",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
